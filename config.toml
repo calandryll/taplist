@@ -1,0 +1,27 @@
+baseURL = 'http://redtidebrewing.com/'
+languageCode = 'en-us'
+title = 'Redtide Home Brewery'
+
+[params]
+    # Colors
+    favicon = "images/favicon.ico"
+    primary_color = '#434C5E'
+    secondary_color = '#4C566A'
+    black_color = '#2f2f41'
+    white_color = '#E5E9F0'
+    white_offset = '#ECEFF4'
+    steel = '#5C5A5A'
+
+    # Header Font Size
+    header_fsize = '3em'
+
+    # Number of taps
+    numtaps = '3'
+
+    # Header logo
+    [params.logo]
+        mobile = "images/logo_cret.svg"
+        mobile_height = "36px"
+        desktop = "images/logo_crest.svg"
+        desktop_height = "200px"
+        alt = "A Home Brewery"

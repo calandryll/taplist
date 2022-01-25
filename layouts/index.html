@@ -1,0 +1,39 @@
+{{ define "body_classes" }}page-home{{ end }}
+
+{{ define "main" }}
+    <div class="p-3">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col"></th>
+            <th scope="col"><center>Tap #</center></th>
+            <th scope="col"><center>Beer</center></th>
+            <th scope="col"><center>% ABV</center></th>
+            <th scope="col"><center>IBUs</center></th>
+            <th scope="col"><center>SRM</center></th>
+          </tr>
+        </thead>
+        {{ range .Pages.ByTitle }}
+        <tbody>
+          <tr>
+            {{ if .Params.Title }}
+              <td class="px-3 pb-3">
+                {{ if .Params.label }}
+                  <img src="{{ .Params.label | relURL }}">
+                {{ end }}
+              </td>
+              <td class="px-3 pb-3">{{ .Params.tapnum }}</td>
+              <td class="px-3 pb-3">{{ .Title }}</br>{{ .Params.summary }}</td>
+              <td class="px-3 pb-3">{{ mul (sub .Params.OG .Params.FG) 131.25 | lang.FormatNumber 1 }}</td>
+              <td class="px-3 pb-3">{{ .Params.IBUS }}</td>
+              <td class="px-3 pb-3">{{ .Params.SRM }}</td>
+            {{ end }}
+          </tr>
+        {{ end }}
+        </tbody>
+      </table>
+    </div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}
