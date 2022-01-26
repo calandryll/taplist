@@ -2,6 +2,9 @@ baseURL = 'http://redtidebrewing.com/'
 languageCode = 'en-us'
 title = 'Redtide Home Brewery'
 
+[taxonomies]
+    tapnums = 'tapnums'
+
 [params]
     # Colors
     favicon = "images/favicon.ico"
