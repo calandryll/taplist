@@ -8,7 +8,7 @@
           <th scope="col"></th>
           <th scope="col"><h1 class="display-4"><center>Tap #</center></h1></th>
           <th scope="col"><h1 class="display-4"><center>Beer</center></h1></th>
-          <th scope="col"><h1 class="display-4"><center>% ABV</center></h1></th>
+          <th scope="col"><h1 class="display-4"><center>ABV</center></h1></th>
           <th scope="col"><h1 class="display-4"><center>IBUs</center></h1></th>
           <th scope="col"><h1 class="display-4"><center>SRM</center></h1></th>
         </tr>
@@ -27,7 +27,7 @@
                 <td class="px-3 pb-3"><center>
                   {{ if .Params.OG }}
                     {{ mul (sub .Params.OG .Params.FG) 131.25 | lang.FormatNumber 1 }}
-                  {{ end }}
+                  {{ end }} %
                 </center>
                 </td>
                 <td class="px-3 pb-3"><center>{{ .Params.IBUS }}</center></td>

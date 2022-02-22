@@ -7,7 +7,7 @@ favicon: 'images/favicon.ico'
 label: 
 OG: 1.058
 FG: 1.019
-SRM: 47
+SRM: 'srm41'
 IBUS: 34
 kegged: true
 weight: 2
