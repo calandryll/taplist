@@ -11,5 +11,5 @@ FG: 1.007
 SRM: 'srm21'
 IBUS: '19'
 kegged: true
-weight: 2
+weight: 3
 ---
