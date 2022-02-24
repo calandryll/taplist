@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    {% load static %}
+
+    <head>
+        <title>Red Tide Homebrewing</title>
+    </head>
+    <link rel="stylesheet" type="text/css" href="{% static 'taplist.css' %}" />
+    <link rel="icon" type="image/x-icon" href="{% static 'images/favicon.ico' %}" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Playfair+Display&family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+    <body>
+        <div class = 'header'>
+            <div class = 'header left'>
+                <img src = "{% static 'images/logo_crest.svg' %}" height = "150">
+            </div>
+            <div class = "header center">
+                <h1 id = 'title'>Currently On Tap</h1>
+            </div>
+            <div class = "header right">
+                <a href="{% url 'admin:index' %}"><img src="{% static 'images/gear.png' %}" height = "25" width = "25"></a>
+            </div>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th class = "tap-head">Tap</th>
+                    <th class = "name-head">Beer</th>
+                    <th class = "ibu-head">IBUs</th>
+                    <th class = "srm-head">Color</th>
+                </tr>
+            </thead>
+        </table>
+        <!-- Brew list -->
+
+        {% for brew in beer %}
+        <table>
+            <tbody>
+                <tr class = "{% if forloop.counter|divisibleby:2 %}altrow{% endif %}">
+                    <td class = "tap-body">
+                        <span class = "tapcircle">{{brew.tap}}</span>
+                    </td>
+                    <td class = "name-body">
+                        <h1 class = "name">{{brew.brew_name}}</h1> 
+                        <h2 class = "subhead"> {{brew.style}}</h2>
+                        <h2 class = "subhead">ABV: {{brew.abv_calc | floatformat }}%, {{brew.cal_calc | floatformat:"0"}} Cal</h2>
+                        <p>{{brew.tasting_notes}}</p>
+                        <p>Date Brewed: {{brew.date_brewed}}</p>
+                    </td>
+                    <td class = "ibu-body">
+                        <h4>IBUs: {{brew.IBU}}</h4>
+                        <div class = "ibu-container">
+                            <div class = "ibu-full">
+                                <img src="{% static 'images/ibu.png' %}" height = "150">
+                            </div>
+                            <div class = "ibu-crop" style = "clip: rect({{brew.ibu_size}}px, 150px, 200px,0px); ">
+                                <img src = "{% static 'images/ibu-mask.png' %}" height = "150">
+                            </div>
+                        </div>
+                    </td>
+                    <td class = "srm-body">
+                        <h4>SRM: {{brew.SRM}}</h4>
+                        <div class = "srm-container">
+                            {% if brew.SRM > 40 %}
+                                <div style = "background-color: rgb(3,4,3); mask-image: url({% static 'images/pint-mask.png' %}); -webkit-mask-image: url({% static 'images/pint-mask.png' %}); -webkit-mask-repeat: no-repeat; mask-size:85px; -webkit-mask-size:85px; left:27%;" class = "srm-indicator"></div>
+                                <div class = "srm-stroke"><img src="{% static 'images/pint.png' %}" height = "150"></div>
+                            {% else %}
+                                <div style = "background-color: rgb({{brew.srm_RGB}}); mask-image: url({% static 'images/pint-mask.png' %}); -webkit-mask-image: url({% static 'images/pint-mask.png' %}); -webkit-mask-repeat: no-repeat; mask-size:85px; -webkit-mask-size:85px; left:27%;"  class = "srm-indicator"></div>
+                                <div class = "srm-stroke"><img src="{% static 'images/pint.png' %}" height = "150"></div>
+                            {% endif %}
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        {% endfor %}
+
+    </body>
