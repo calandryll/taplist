@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>Juniper Saison</title>
+      <link>http://redtidebrewing.com/juniper_saison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redtidebrewing.com/juniper_saison/</guid>
+      <description>A refreshing Belgian style Saison made with cucumbers and juniper berries to invoke the flavors of Hendrick’s Gin.</description>
+    </item>
+    
+    <item>
       <title>Five Hole Kölsch</title>
       <link>http://redtidebrewing.com/five_hole_kolsch/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
@@ -71,12 +80,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Juniper Saison</title>
       <link>http://redtidebrewing.com/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://redtidebrewing.com/template/</guid>
-      <description></description>
+      <description>A refreshing Belgian style Saison made with cucumbers and juniper berries to invoke the flavors of Hendrick’s Gin.</description>
     </item>
     
   </channel>
