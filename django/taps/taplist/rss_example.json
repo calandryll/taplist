@@ -1,0 +1,220 @@
+{
+   "bozo":false,
+   "entries":[
+      {
+         "title":"Bill C. is drinking a Puck Drop Porter at Main Bierstube",
+         "title_detail":{
+            "type":"text/plain",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"Bill C. is drinking a Puck Drop Porter at Main Bierstube"
+         },
+         "links":[
+            {
+               "rel":"alternate",
+               "type":"text/html",
+               "href":"https://untappd.com/user/BeerBillDE/checkin/1133159078"
+            }
+         ],
+         "link":"https://untappd.com/user/BeerBillDE/checkin/1133159078",
+         "id":"https://untappd.com/user/BeerBillDE/checkin/1133159078",
+         "guidislink":false,
+         "summary":"(4/5 Stars)",
+         "summary_detail":{
+            "type":"text/html",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"(4/5 Stars)"
+         },
+         "published":"Sat, 26 Feb 2022 18:45:31 +0000",
+         "published_parsed":time.struct_time(tm_year=2022,
+         tm_mon=2,
+         tm_mday=26,
+         tm_hour=18,
+         tm_min=45,
+         tm_sec=31,
+         tm_wday=5,
+         tm_yday=57,
+         tm_isdst=0)
+      },
+      {
+         "title":"Bill C. is drinking an Almond Milk Stout at Main Bierstube",
+         "title_detail":{
+            "type":"text/plain",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"Bill C. is drinking an Almond Milk Stout at Main Bierstube"
+         },
+         "links":[
+            {
+               "rel":"alternate",
+               "type":"text/html",
+               "href":"https://untappd.com/user/BeerBillDE/checkin/1133152689"
+            }
+         ],
+         "link":"https://untappd.com/user/BeerBillDE/checkin/1133152689",
+         "id":"https://untappd.com/user/BeerBillDE/checkin/1133152689",
+         "guidislink":false,
+         "summary":"(3.5/5 Stars)",
+         "summary_detail":{
+            "type":"text/html",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"(3.5/5 Stars)"
+         },
+         "published":"Sat, 26 Feb 2022 18:37:39 +0000",
+         "published_parsed":time.struct_time(tm_year=2022,
+         tm_mon=2,
+         tm_mday=26,
+         tm_hour=18,
+         tm_min=37,
+         tm_sec=39,
+         tm_wday=5,
+         tm_yday=57,
+         tm_isdst=0)
+      },
+      {
+         "title":"Allan K. is drinking an Almond Milk Stout at Main Bierstube",
+         "title_detail":{
+            "type":"text/plain",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"Allan K. is drinking an Almond Milk Stout at Main Bierstube"
+         },
+         "links":[
+            {
+               "rel":"alternate",
+               "type":"text/html",
+               "href":"https://untappd.com/user/atkujala1960/checkin/1133152271"
+            }
+         ],
+         "link":"https://untappd.com/user/atkujala1960/checkin/1133152271",
+         "id":"https://untappd.com/user/atkujala1960/checkin/1133152271",
+         "guidislink":false,
+         "summary":"(5/5 Stars)",
+         "summary_detail":{
+            "type":"text/html",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"(5/5 Stars)"
+         },
+         "published":"Sat, 26 Feb 2022 18:37:08 +0000",
+         "published_parsed":time.struct_time(tm_year=2022,
+         tm_mon=2,
+         tm_mday=26,
+         tm_hour=18,
+         tm_min=37,
+         tm_sec=8,
+         tm_wday=5,
+         tm_yday=57,
+         tm_isdst=0)
+      },
+      {
+         "title":"Joe J. is drinking a Five Hole Kölsch at Felix's Fish Camp Grill",
+         "title_detail":{
+            "type":"text/plain",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"Joe J. is drinking a Five Hole Kölsch at Felix's Fish Camp Grill"
+         },
+         "links":[
+            {
+               "rel":"alternate",
+               "type":"text/html",
+               "href":"https://untappd.com/user/Jensvold72/checkin/1010944593"
+            }
+         ],
+         "link":"https://untappd.com/user/Jensvold72/checkin/1010944593",
+         "id":"https://untappd.com/user/Jensvold72/checkin/1010944593",
+         "guidislink":false,
+         "summary":"(4.25/5 Stars)",
+         "summary_detail":{
+            "type":"text/html",
+            "language":"None",
+            "base":"https://untappd.com/rss/brewery/367780",
+            "value":"(4.25/5 Stars)"
+         },
+         "published":"Sun, 28 Mar 2021 19:07:32 +0000",
+         "published_parsed":time.struct_time(tm_year=2021,
+         tm_mon=3,
+         tm_mday=28,
+         tm_hour=19,
+         tm_min=7,
+         tm_sec=32,
+         tm_wday=6,
+         tm_yday=87,
+         tm_isdst=0)
+      }
+   ],
+   "feed":{
+      "title":"Untappd | Recent Brews on Untappd for Red Tide Brewing",
+      "title_detail":{
+         "type":"text/plain",
+         "language":"None",
+         "base":"https://untappd.com/rss/brewery/367780",
+         "value":"Untappd | Recent Brews on Untappd for Red Tide Brewing"
+      },
+      "links":[
+         {
+            "rel":"alternate",
+            "type":"text/html",
+            "href":"https://untappd.com/rss/brewery/367780"
+         },
+         {
+            "href":"https://untappd.com/rss/brewery/367780",
+            "rel":"self",
+            "type":"application/rss+xml"
+         }
+      ],
+      "link":"https://untappd.com/rss/brewery/367780",
+      "subtitle":"Recent Brews on Untappd for Red Tide Brewing",
+      "subtitle_detail":{
+         "type":"text/html",
+         "language":"None",
+         "base":"https://untappd.com/rss/brewery/367780",
+         "value":"Recent Brews on Untappd for Red Tide Brewing"
+      },
+      "language":"en",
+      "authors":[
+         {
+            "email":"info@untappd.com"
+         }
+      ],
+      "author":"info@untappd.com",
+      "author_detail":{
+         "email":"info@untappd.com"
+      },
+      "rights":"Copyright 2022",
+      "rights_detail":{
+         "type":"text/plain",
+         "language":"None",
+         "base":"https://untappd.com/rss/brewery/367780",
+         "value":"Copyright 2022"
+      }
+   },
+   "headers":{
+      "date":"Sun, 27 Feb 2022 12:38:18 GMT",
+      "content-type":"application/rss+xml",
+      "transfer-encoding":"chunked",
+      "connection":"close",
+      "content-encoding":"gzip",
+      "cf-cache-status":"DYNAMIC",
+      "expect-ct":"max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=lB71%2BsADie05VqHGk0eZmTsK0oz5tbeK2eAXxqSQC0uPxhi8PTnKKVhIUyIgYf2vZBiLmsCCg89DzDCyUMAGNlIstYlfBgGbk1drhBth3vVCmCnmeK1KTPIJDg%2Bs\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "server":"cloudflare",
+      "cf-ray":"6e41782d3fa2592f-IAD"
+   },
+   "href":"https://untappd.com/rss/brewery/367780",
+   "status":200,
+   "encoding":"utf-8",
+   "version":"rss20",
+   "namespaces":{
+      "dc":"http://purl.org/dc/elements/1.1/",
+      "sy":"http://purl.org/rss/1.0/modules/syndication/",
+      "admin":"http://webns.net/mvcb/",
+      "rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "content":"http://purl.org/rss/1.0/modules/content/",
+      "":"http://www.w3.org/2005/Atom"
+   }
+}

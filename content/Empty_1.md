@@ -9,6 +9,6 @@ OG:
 FG: 
 SRM: 
 IBUS: 
-kegged: 
+kegged: true
 weight: 1
 ---

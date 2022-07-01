@@ -10,6 +10,6 @@ OG: 1.037
 FG: 1.007
 SRM: 'srm21'
 IBUS: '19'
-kegged: true
+kegged: false
 weight: 3
 ---

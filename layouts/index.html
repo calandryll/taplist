@@ -19,7 +19,7 @@
               {{ if .Params.kegged }}
                 <td class="px-3 pb-3">
                   {{ if .Params.label }}
-                    <img src="{{ .Params.label | relURL }}">
+                    <center><img height="125" src="{{ .Params.label | relURL }}" /></center>
                   {{ end }}
                 </td>
                 <td class="px-3 pb-3">{{ .Params.weight }}</td>

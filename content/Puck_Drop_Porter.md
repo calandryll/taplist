@@ -9,6 +9,6 @@ OG: 1.062
 FG: 1.012
 SRM: 'srm38'
 IBUS: '47'
-kegged: true
+kegged: false
 weight: 1
 ---
