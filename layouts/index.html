@@ -23,7 +23,7 @@
                   {{ end }}
                 </td>
                 <td class="px-3 pb-3">{{ .Params.weight }}</td>
-                <td class="px-3 pb-3"><h2>{{ .Title }}</h2></br><small>{{ .Params.summary }}</small></td>
+                <td class="px-3 pb-3"><h2>{{ .Title }}</h2></br>{{ .Params.summary }}</td>
                 <td class="px-3 pb-3"><center>
                   {{ if .Params.OG }}
                     {{ mul (sub .Params.OG .Params.FG) 131.25 | lang.FormatNumber 1 }}

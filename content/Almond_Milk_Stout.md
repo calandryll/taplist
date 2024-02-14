@@ -9,6 +9,6 @@ OG: 1.058
 FG: 1.019
 SRM: 'srm41'
 IBUS: 34
-kegged: true
+kegged: false
 weight: 2
 ---

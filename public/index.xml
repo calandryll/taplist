@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Five Hole Kölsch</title>
+      <link>http://redtidebrewing.com/five_hole_kolsch/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://redtidebrewing.com/five_hole_kolsch/</guid>
+      <description>Our take on the beloved Kölsch style from the Köln area of Germany.  A top-fermented ale, similar in style to a Pils or other lager.  A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character.</description>
+    </item>
+    
+    <item>
       <title>Strawberry Milk Blonde</title>
       <link>http://redtidebrewing.com/strawberry_milk_blonde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -80,21 +89,30 @@
     </item>
     
     <item>
-      <title>Five Hole Kölsch</title>
-      <link>http://redtidebrewing.com/five_hole_kolsch/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <title>On tap Next - Alsatian Pilsner</title>
+      <link>http://redtidebrewing.com/upcoming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://redtidebrewing.com/five_hole_kolsch/</guid>
-      <description>Our take on the beloved Kölsch style from the Köln area of Germany.  A top-fermented ale, similar in style to a Pils or other lager.  A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character.</description>
+      <guid>http://redtidebrewing.com/upcoming/</guid>
+      <description>A SMaSH pilsner made with French Strisselspalt</description>
     </item>
     
     <item>
-      <title>Juniper Saison</title>
+      <title>On tap next - Mehn Family Lager</title>
+      <link>http://redtidebrewing.com/mehn_family_lager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://redtidebrewing.com/mehn_family_lager/</guid>
+      <description>A SMaSH pilsner made with French Strisselspalt</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://redtidebrewing.com/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://redtidebrewing.com/template/</guid>
-      <description>A refreshing Belgian style Saison made with cucumbers and juniper berries to invoke the flavors of Hendrick’s Gin.</description>
+      <description></description>
     </item>
     
   </channel>
