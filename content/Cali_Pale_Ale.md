@@ -8,6 +8,6 @@ OG: 1.060 # Specific gravity for calculating %ABV
 FG: 1.011 # Specific gravity for calculating %ABV
 SRM: 'srm8' # As srm## use whole values
 IBUS: 38
-kegged: true # True will display beer in the taplist
+kegged: false # True will display beer in the taplist
 weight: 3 # Use this for the tap number
 ---
