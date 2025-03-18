@@ -30,6 +30,13 @@
       <description>Our take on the beloved Kölsch style from the Köln area of Germany.  A top-fermented ale, similar in style to a Pils or other lager.  A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character.</description>
     </item>
     <item>
+      <title>51st State</title>
+      <link>http://localhost:1313/51st-state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/51st-state/</guid>
+      <description>A refreshing blonde ale inspired by Labatt 50.</description>
+    </item>
+    <item>
       <title>Strawberry Milk Blonde</title>
       <link>http://localhost:1313/strawberry_milk_blonde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
