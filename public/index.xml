@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taplist on Redtide Home Brewery</title>
-    <link>http://localhost:1313/</link>
+    <link>http://redtidebrewing.com/</link>
     <description>Recent content in Taplist on Redtide Home Brewery</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://redtidebrewing.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Empty</title>
-      <link>http://localhost:1313/empty_1/</link>
+      <link>http://redtidebrewing.com/empty_1/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/empty_1/</guid>
+      <guid>http://redtidebrewing.com/empty_1/</guid>
       <description>Tap is currently empty</description>
     </item>
     <item>
       <title>Puck Drop Porter</title>
-      <link>http://localhost:1313/puck_drop_porter/</link>
+      <link>http://redtidebrewing.com/puck_drop_porter/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/puck_drop_porter/</guid>
+      <guid>http://redtidebrewing.com/puck_drop_porter/</guid>
       <description>A dark, malty American style porter that is the base for many of our flavored beers.</description>
     </item>
     <item>
       <title>Five Hole Kölsch</title>
-      <link>http://localhost:1313/five_hole_kolsch/</link>
+      <link>http://redtidebrewing.com/five_hole_kolsch/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/five_hole_kolsch/</guid>
+      <guid>http://redtidebrewing.com/five_hole_kolsch/</guid>
       <description>Our take on the beloved Kölsch style from the Köln area of Germany.  A top-fermented ale, similar in style to a Pils or other lager.  A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character.</description>
     </item>
     <item>
       <title>51st State</title>
-      <link>http://localhost:1313/51st-state/</link>
+      <link>http://redtidebrewing.com/51st-state/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/51st-state/</guid>
+      <guid>http://redtidebrewing.com/51st-state/</guid>
       <description>A refreshing blonde ale inspired by Labatt 50.</description>
     </item>
     <item>
       <title>Strawberry Milk Blonde</title>
-      <link>http://localhost:1313/strawberry_milk_blonde/</link>
+      <link>http://redtidebrewing.com/strawberry_milk_blonde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/strawberry_milk_blonde/</guid>
+      <guid>http://redtidebrewing.com/strawberry_milk_blonde/</guid>
       <description>A blonde ale with lactose and strawberries from Fifers Orchards.</description>
     </item>
     <item>
       <title>Almond Milk Stout</title>
-      <link>http://localhost:1313/almond_milk_stout/</link>
+      <link>http://redtidebrewing.com/almond_milk_stout/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/almond_milk_stout/</guid>
+      <guid>http://redtidebrewing.com/almond_milk_stout/</guid>
       <description>An English style Milk Stout with Disaronno amaretto.</description>
     </item>
     <item>
       <title>Empty</title>
-      <link>http://localhost:1313/empty_2/</link>
+      <link>http://redtidebrewing.com/empty_2/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/empty_2/</guid>
+      <guid>http://redtidebrewing.com/empty_2/</guid>
       <description>Tap is currently empty</description>
     </item>
     <item>
       <title>Candi by Fordham and Dominion</title>
-      <link>http://localhost:1313/candi/</link>
+      <link>http://redtidebrewing.com/candi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/candi/</guid>
+      <guid>http://redtidebrewing.com/candi/</guid>
       <description>Saaz and Hallertau hops provide a clean, floral aroma with minimal hop bitterness. Fruity/spicy flavors from the yeast are perfectly balanced with the sweetness of Belgian candy sugar. Notes of apricot and pear linger nicely against a dry finish.</description>
     </item>
     <item>
       <title>Empty</title>
-      <link>http://localhost:1313/empty_3/</link>
+      <link>http://redtidebrewing.com/empty_3/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/empty_3/</guid>
+      <guid>http://redtidebrewing.com/empty_3/</guid>
       <description>Tap is currently empty</description>
     </item>
     <item>
       <title>Flanders Red</title>
-      <link>http://localhost:1313/flanders_red/</link>
+      <link>http://redtidebrewing.com/flanders_red/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/flanders_red/</guid>
+      <guid>http://redtidebrewing.com/flanders_red/</guid>
       <description>Inspired by the classic Flemish Red Ale, Heiress de Bourgogne is a deeply complex sour red ale with notes of raisins, dark stone fruits, and a delicate tartness.&#xA;Utilizing the popular and unique kettle-souring method, Heiress will develop its tart, sour character in mere days instead of months or years without the risk of contaminating other batches. The resulting beer will mature rapidly into an elaborate menagerie of flavors, all bound within its deep ruby, medium-bodied elixir, and topped with a voluminous off-white head.</description>
     </item>
     <item>
       <title>English Mild</title>
-      <link>http://localhost:1313/english_mild/</link>
+      <link>http://redtidebrewing.com/english_mild/</link>
       <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english_mild/</guid>
+      <guid>http://redtidebrewing.com/english_mild/</guid>
       <description>A dark, low-gravity, malt-focused British session ale readily suited to drinking in quantity. Refreshing, yet flavorful, with a wide range of dark malt or dark sugar expression.</description>
     </item>
     <item>
       <title>Cali Pale Ale</title>
-      <link>http://localhost:1313/cali_pale_ale/</link>
+      <link>http://redtidebrewing.com/cali_pale_ale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cali_pale_ale/</guid>
+      <guid>http://redtidebrewing.com/cali_pale_ale/</guid>
       <description>MoreBeers Sierra Nevada Pale Ale Clone</description>
     </item>
     <item>
       <title>Juniper Saison</title>
-      <link>http://localhost:1313/juniper_saison/</link>
+      <link>http://redtidebrewing.com/juniper_saison/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/juniper_saison/</guid>
+      <guid>http://redtidebrewing.com/juniper_saison/</guid>
       <description>A refreshing Belgian style Saison made with cucumbers and juniper berries to invoke the flavors of Hendrick’s Gin.</description>
     </item>
     <item>
       <title>On tap Next - Alsatian Pilsner</title>
-      <link>http://localhost:1313/upcoming/</link>
+      <link>http://redtidebrewing.com/upcoming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/upcoming/</guid>
+      <guid>http://redtidebrewing.com/upcoming/</guid>
       <description>A SMaSH pilsner made with French Strisselspalt</description>
     </item>
     <item>
       <title>On tap next - Mehn Family Lager</title>
-      <link>http://localhost:1313/mehn_family_lager/</link>
+      <link>http://redtidebrewing.com/mehn_family_lager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mehn_family_lager/</guid>
+      <guid>http://redtidebrewing.com/mehn_family_lager/</guid>
       <description>A SMaSH pilsner made with French Strisselspalt</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/template/</link>
+      <link>http://redtidebrewing.com/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/template/</guid>
+      <guid>http://redtidebrewing.com/template/</guid>
       <description></description>
     </item>
   </channel>
